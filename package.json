@@ -1,7 +1,7 @@
 {
   "name": "homebridge-http-air-quality",
   "version": "0.0.1",
-  "description": http plugin for air quality monitoring with homebridge",
+  "description": "http plugin for air quality monitoring with homebridge",
   "license": "none",
   "keywords": [
     "homebridge-plugin"
