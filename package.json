@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-http-air-quality",
+  "version": "0.0.1",
+  "description": http plugin for air quality monitoring with homebridge",
+  "license": "none",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author" {
+    "name": "ClementGDev"
+  },
+  "repository": {
+    "type": "git",
+    "url": git://github/clementGdev/homebridge-http-air-quality.git"
+  },
+  "dependencies": {
+    "sync-request": "^2.1.0"
+  }
+}
